@@ -1,4 +1,7 @@
-<!-- PROJECT LOGO -->
+<p align="center">
+  <img src="blue_carbon_agent_banner.png" alt="Blue Carbon AI Agent Banner" width="100%">
+</p>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Blue_carbon.svg/1200px-Blue_carbon.svg.png" alt="Blue Carbon Logo" width="160">
 </p>
