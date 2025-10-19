@@ -10,7 +10,7 @@
   <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
   <a href="#-example-interaction">Example</a> •
-  <a href="#-author">Author</a>
+  <a href="#author">Author</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/LangChain-0.2+-orange?logo=chainlink" />
@@ -74,12 +74,12 @@ Below is a **real example** of a question and the AI’s full contextual respons
 
 ---
 
-## 🧑‍💻 Author
+<h2 id="author">🧑‍💻 Author</h2>
 
 **Fábio Souza**  
 Geographer & Data Scientist
 🌎 Specialized in Geospatial Intelligence, AI, and Environmental Innovation  
-📧 [LinkedIn](www.linkedin.com/in/fabio-ribeiro-de-souza-60007710)
+📧 [LinkedIn](https://www.linkedin.com/in/fabio-ribeiro-de-souza-60007710)
 
 ---
 
